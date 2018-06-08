@@ -14,11 +14,11 @@ Due to the wide range of requirements of their customers, the variety of pipes t
 *	They may have outer metallic reinforcement;
 *	They may also have improved chemical resistance.
 
-![alt text](https://github.com/collis96/LongPipes/tree/master/Resources/lpr1.png "Types of plastic.")
+![alt text](http://i67.tinypic.com/seq33p.png)
 
-![alt text](https://github.com/collis96/LongPipes/tree/master/Resources/lpr2.png "Cost of plastic.")
+![alt text](http://i63.tinypic.com/2nlu1rc.png)
 
-![alt text](https://github.com/collis96/LongPipes/tree/master/Resources/lpr3.png "Additional costs.")
+![alt text](http://i66.tinypic.com/2vijjlw.png)
 
 When customers ask LongPipes to quote a price for an order, they specify the following features:
 
